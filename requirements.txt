@@ -1,0 +1,5 @@
+PySide6
+PyMuPDF
+PyPDF2
+pikepdf
+py7zr
