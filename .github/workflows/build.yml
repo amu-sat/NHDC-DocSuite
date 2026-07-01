@@ -42,4 +42,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: NHDC-Document-Suite
-          path: dist\
+          path: dist/NHDC Document Suite/**
