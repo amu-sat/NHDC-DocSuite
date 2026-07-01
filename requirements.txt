@@ -1,5 +1,2 @@
-PySide6
-PyMuPDF
-PyPDF2
-pikepdf
-py7zr
+PySide6>=6.8.0
+PyMuPDF>=1.26.0
